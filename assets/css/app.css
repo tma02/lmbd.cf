@@ -10,16 +10,18 @@ body {
 }
 
 #me {
-	color: #333;
-	margin-top: -400px;
-	margin-bottom: 200px;
+	color: #eee;
+	margin-top: -100px;
+	margin-bottom: 50px;
+	font-size: 85px;
 }
 
 #title {
 	text-align: center;
 	color: #eee;
-	font-size: 300px;
-	margin-top: 50px;
+	font-size: 600px;
+	margin-top: -150px;
+	margin-bottom: 0;
 }
 
 a {
@@ -27,10 +29,11 @@ a {
 	color: #333;
 	text-decoration: none;
 	border: 3px solid #eee;
-	padding: 10px;
-	padding-left: 90px;
-	padding-right: 90px;
+	padding: 15px;
+	padding-left: 70px;
+	padding-right: 70px;
 	margin: 5px;
+	font-size: 25px;
 }
 
 a:hover {
