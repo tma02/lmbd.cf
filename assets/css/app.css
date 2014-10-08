@@ -12,14 +12,14 @@ body {
 #me {
 	color: #333;
 	margin-top: -400px;
-	margin-bottom: 20px;
+	margin-bottom: 200px;
 }
 
 #title {
 	text-align: center;
 	color: #eee;
 	font-size: 300px;
-	margin-top: -50px;
+	margin-top: 50px;
 }
 
 a {
@@ -28,8 +28,8 @@ a {
 	text-decoration: none;
 	border: 3px solid #eee;
 	padding: 10px;
-	padding-left: 50px;
-	padding-right: 50px;
+	padding-left: 90px;
+	padding-right: 90px;
 	margin: 5px;
 }
 
